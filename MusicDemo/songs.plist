@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>musicName</key>
+		<string>偏爱</string>
+		<key>musicIcon</key>
+		<string>偏爱.png</string>
+		<key>singer</key>
+		<string>张芸京</string>
+	</dict>
+	<dict>
+		<key>musicName</key>
+		<string>你的背包</string>
+		<key>musicIcon</key>
+		<string>你的背包.png</string>
+		<key>singer</key>
+		<string>陈奕迅</string>
+	</dict>
+	<dict>
+		<key>musicName</key>
+		<string>Apologize</string>
+		<key>musicIcon</key>
+		<string>apologize.png</string>
+		<key>singer</key>
+		<string>smath</string>
+	</dict>
+	<dict>
+		<key>musicName</key>
+		<string>年少无知</string>
+		<key>musicIcon</key>
+		<string>年少无知.png</string>
+		<key>singer</key>
+		<string>黄贯中</string>
+	</dict>
+	<dict>
+		<key>musicName</key>
+		<string>一万个舍不得</string>
+		<key>musicIcon</key>
+		<string>一万个舍不得.png</string>
+		<key>singer</key>
+		<string>网络歌手</string>
+	</dict>
+	<dict>
+		<key>musicName</key>
+		<string>Someone Like You</string>
+		<key>musicIcon</key>
+		<string>someone like you Adele.png</string>
+		<key>singer</key>
+		<string>Adele</string>
+	</dict>
+	<dict>
+		<key>musicName</key>
+		<string>Free Loop</string>
+		<key>musicIcon</key>
+		<string>Free Loop Daniel Powter.png</string>
+		<key>singer</key>
+		<string>Daniel Powter</string>
+	</dict>
+	<dict>
+		<key>musicName</key>
+		<string>Wish You Were Here</string>
+		<key>musicIcon</key>
+		<string>wish you were here Avril.png</string>
+		<key>singer</key>
+		<string>Avril</string>
+	</dict>
+	<dict>
+		<key>musicName</key>
+		<string>everybody-后街男孩</string>
+		<key>musicIcon</key>
+		<string>everybody backstreet.png</string>
+		<key>singer</key>
+		<string>backstreet</string>
+	</dict>
+	<dict>
+		<key>musicName</key>
+		<string>Hometown Glory</string>
+		<key>musicIcon</key>
+		<string>Hometown Glory Adele.png</string>
+		<key>singer</key>
+		<string>Adele</string>
+	</dict>
+</array>
+</plist>
